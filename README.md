@@ -1,5 +1,5 @@
 # Search-Engine
-# Computer Programming (CP Project UET Peshawar)
+
 It is a Full-Fledge Search Engine 
 Works on Local Server
 HTML CSS front end
