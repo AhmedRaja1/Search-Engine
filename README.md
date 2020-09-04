@@ -7,4 +7,4 @@ Javascript, PHP backend SQL
 
 # COVER
 <img src="https://raw.githubusercontent.com/AhmedRaja1/Search-Engine/master/Search%20logo.png">
-BY RAJA AHMED FROM PAKISTAN 💚
+Made with :heart: by Raja Ahmed 💚
